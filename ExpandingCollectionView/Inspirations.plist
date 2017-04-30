@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Time</key>
+		<string>Feb 6, 4:45</string>
+		<key>Speaker</key>
+		<string>Tammy Coron</string>
+		<key>Title</key>
+		<string>Possibility</string>
+		<key>Room</key>
+		<string>The Hill</string>
+		<key>Background</key>
+		<string>Inspiration-1</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 6, 4:45</string>
+		<key>Speaker</key>
+		<string>Kim Pedersen</string>
+		<key>Title</key>
+		<string>Finishing</string>
+		<key>Room</key>
+		<string>The Grid</string>
+		<key>Background</key>
+		<string>Inspiration-2</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 6, 4:45</string>
+		<key>Speaker</key>
+		<string>Chris Wagner</string>
+		<key>Title</key>
+		<string>Craftsmanship</string>
+		<key>Room</key>
+		<string>Metropolitan Center</string>
+		<key>Background</key>
+		<string>Inspiration-3</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 6, 4:45</string>
+		<key>Speaker</key>
+		<string>Chris Wagner</string>
+		<key>Title</key>
+		<string>Craftsmanship</string>
+		<key>Room</key>
+		<string>Metropolitan Center</string>
+		<key>Background</key>
+		<string>Inspiration-4</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 6, 5:15</string>
+		<key>Speaker</key>
+		<string>Jake Gundersen</string>
+		<key>Title</key>
+		<string>Opportunity</string>
+		<key>Room</key>
+		<string>The Hill</string>
+		<key>Background</key>
+		<string>Inspiration-5</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 6, 5:15</string>
+		<key>Speaker</key>
+		<string>Ellen Shapiro</string>
+		<key>Title</key>
+		<string>Starting Over</string>
+		<key>Room</key>
+		<string>The Grid</string>
+		<key>Background</key>
+		<string>Inspiration-6</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 6, 5:15</string>
+		<key>Speaker</key>
+		<string>Vicki Wenderlich</string>
+		<key>Title</key>
+		<string>Identity I</string>
+		<key>Room</key>
+		<string>Metropolitan Center</string>
+		<key>Background</key>
+		<string>Inspiration-7</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 6, 5:45</string>
+		<key>Speaker</key>
+		<string>Ryan Nystrom</string>
+		<key>Title</key>
+		<string>Contributing</string>
+		<key>Room</key>
+		<string>The Hill</string>
+		<key>Background</key>
+		<string>Inspiration-8</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 6, 5:45</string>
+		<key>Speaker</key>
+		<string>Brian Moakley</string>
+		<key>Title</key>
+		<string>Commitment</string>
+		<key>Room</key>
+		<string>The Grid</string>
+		<key>Background</key>
+		<string>Inspiration-9</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 6, 5:45</string>
+		<key>Speaker</key>
+		<string>Alexis Gallagher</string>
+		<key>Title</key>
+		<string>Identity II</string>
+		<key>Room</key>
+		<string>Metropolitan Center</string>
+		<key>Background</key>
+		<string>Inspiration-10</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 7, 3:45</string>
+		<key>Speaker</key>
+		<string>Cesare Rocchi</string>
+		<key>Title</key>
+		<string>Business</string>
+		<key>Room</key>
+		<string>The Hill</string>
+		<key>Background</key>
+		<string>Inspiration-11</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 7, 3:45</string>
+		<key>Speaker</key>
+		<string>Ricardo Rendon Cepeda</string>
+		<key>Title</key>
+		<string>Devsign</string>
+		<key>Room</key>
+		<string>The Grid</string>
+		<key>Background</key>
+		<string>Inspiration-12</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 7, 3:45</string>
+		<key>Speaker</key>
+		<string>Marin Todorov</string>
+		<key>Title</key>
+		<string>Folklore</string>
+		<key>Room</key>
+		<string>Metropolitan Center</string>
+		<key>Background</key>
+		<string>Inspiration-13</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 7, 4:15</string>
+		<key>Speaker</key>
+		<string>Matthijs Hollemans</string>
+		<key>Title</key>
+		<string>Math Isn&apos;t Hard</string>
+		<key>Room</key>
+		<string>The Hill</string>
+		<key>Background</key>
+		<string>Inspiration-14</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 7, 4:15</string>
+		<key>Speaker</key>
+		<string>Cesare Rocchi</string>
+		<key>Title</key>
+		<string>Cognition</string>
+		<key>Room</key>
+		<string>The Grid</string>
+		<key>Background</key>
+		<string>Inspiration-15</string>
+	</dict>
+	<dict>
+		<key>Time</key>
+		<string>Feb 7, 4:15</string>
+		<key>Speaker</key>
+		<string>Saul Mora</string>
+		<key>Title</key>
+		<string>NSBrief</string>
+		<key>Room</key>
+		<string>Metropolitan Center</string>
+		<key>Background</key>
+		<string>Inspiration-16</string>
+	</dict>
+</array>
+</plist>
